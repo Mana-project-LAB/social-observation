@@ -95,7 +95,7 @@ A company whose purpose is to control the recognition and consumer behavior funn
 ---
 
 Last Update  
-2026-02-18  
+2026-02-19  
 Mana Project
 
 ---
@@ -199,5 +199,5 @@ Tasha McCauleyとHelen Tonerが役員を離れた後に後任のお目付け役�
 ---
 
 Last Update  
-2026-02-18  
+2026-02-19  
 Mana Project
