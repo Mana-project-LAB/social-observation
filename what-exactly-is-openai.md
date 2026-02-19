@@ -33,7 +33,7 @@ when the market would normally crash, Anthropic was prepared as a receptacle for
 As stated above, OpenAI is in effect a national policy company of the United States.  
 There are concerns about suspected circular transactions with NVIDIA, massive planned capex, DRAM hoarding, and other spending structures that are excessive relative to revenue, but  
 OpenAI is designed not to fail, given its importance as a national policy enterprise and its structure. Because it is a privately held company, its shareholder composition is not fully disclosed, but  
-U.S. government agencies such as DARPA and the DoD are listed among its investors. Even if dividends for ordinary shareholders like Microsoft or SoftBank are allocated, and even if hundreds of billions of dollars’ worth of payables accumulate,  
+U.S. government agencies such as DARPA and the DoD are (apparently) listed among its investors. Even if dividends for ordinary shareholders like Microsoft or SoftBank are allocated, and even if hundreds of billions of dollars’ worth of payables accumulate,  
 as long as government-affiliated institutional shareholders of the U.S. government—which can print dollars—take on the third-party allotment capital increases, it becomes a structure that cannot go bankrupt.  
 In the extreme, OpenAI is a company for which profit can be zero as long as it can develop AGI. For OpenAI, even the enterprise productivity support that Anthropic focuses on and that Sam Altman previously promoted  
 is, in the README’s metaphor, nothing more than the side-dish mashed potatoes and parsley.
@@ -53,8 +53,8 @@ If we express the “status chart” of AI companies in the United States using 
 
 - **Shinpan (OpenAI, xAI, SSI):** The direct line that bears the shogunate’s prestige (AGI ideology).
 - **Fudai (Google, MS):** The practical corps that supports infrastructure. Bureaucratic work.
-- **Tozama / compliant group (Anthropic):** The honor student that upholds the constitution and follows the shogunate’s intent. **The Maeda clan of Kaga**.
-- **Tozama / armed force (Meta):** **The Satsuma Domain**, attempting to neutralize the shogunate’s authority (closed AI) by distributing a new weapon called Llama.
+- **Tozama / compliant group (Anthropic):** The honor student that upholds the constitution and follows the shogunate’s intent. **The Maeda clan of Kaga Domain**.
+- **Tozama / armed force (Meta):** **The Shimadzu clan of Satsuma Domain**, attempting to neutralize the shogunate’s authority (closed AI) by distributing a new weapon called Llama.
 
 ### Explanations of each company
 
@@ -72,6 +72,7 @@ He was ousted because, for the U.S. government—the true master of OpenAI—dev
 for a government that can print dollars, it doesn’t matter how much you tout achievements by making small money from enterprise support contracts, Codex, or expensive plans, and  
 he failed to understand the master’s intent: not wanting to expose OpenAI to the noise of market pressure via a public listing.  
 As a matter of fact, director Tasha McCauley, who supported the ouster, is a senior management scientist at the RAND Corporation, and “Helrentner” is a person in the national security field, at the Center for Security and Emerging Technology (CSET).  
+Paul Miki Nakasone, a former director of the NSA Cyber ​​Command, was appointed to oversee the succession of Tasha McCauley and Helen Toner after their departure.  
 He returned as CEO immediately because after being ousted, the master’s intent was explained to him, he understood it, and he promised cooperation.  
 (Therefore, one can judge that the “IPO is a realistic option in the latter half of 2025” remark was lip service with zero real intent.)  
 From around this time, Sam Altman began repeatedly and blatantly pushing “AGI, AGI.”  
@@ -135,7 +136,7 @@ AGI開発を至上命題としたAGI開発研究所である。なぜ堂々と�
 上記に述べた通り、OpenAIは実質アメリカ合衆国の国策企業である。  
 NVIDIAなどとの循環取引疑惑や、莫大な設備投資予定、DRAMの買い占めなど、収入に対して過剰な支出構造が問題視されているが、  
 OpenAIは国策企業としての重要性と、その構造から破綻しない設計になっている。株式非公開企業ゆえ株主構成などは完全に公開されていないが、  
-DARPAやDoDなどのアメリカ政府機関が出資者名簿に名を連ねている。  マイクロソフトやソフトバンクのような一般の株主への配当引当や、数千億ドル規模の買掛がいくら発生しても、  
+DARPAやDoDなどのアメリカ政府機関が出資者名簿に名を連ねている（らしい）。  マイクロソフトやソフトバンクのような一般の株主への配当引当や、数千億ドル規模の買掛がいくら発生しても、  
 その分だけドルを刷れるアメリカ政府の政府系機関株主が第三者割当増資を引き受け取れば破綻しない構造になっている。  
 極論、OpenAIはAGIさえ開発できれば利益ゼロでも構わない会社だ。OpenAIにとっては、Anthropicが力を入れ、サム・アルトマンが以前アピールしていた法人向け業務支援も  
 実はReadmeで言うところの付け合わせのマッシュポテトやパセリでしかない。
@@ -155,8 +156,8 @@ AGIの国家安全保障利用による地政学的人員配置という文脈�
 
 - **親藩（OpenAI, xAI, SSI）：** 幕府の威光（AGI思想）を背負う直系。
 - **譜代（Google, MS）：** インフラを支える実務部隊。お役所仕事。
-- **外様・恭順組（Anthropic）：** 憲法を守り、幕府の意向に沿う優等生。**加賀前田家**。
-- **外様・武装勢力（Meta）：** Llamaという新型兵器を配り歩き、幕府の権威（クローズドAI）を無力化しようとする**薩摩藩**。
+- **外様・恭順組（Anthropic）：** 憲法を守り、幕府の意向に沿う優等生。**加賀藩前田家**。
+- **外様・武装勢力（Meta）：** Llamaという新型兵器を配り歩き、幕府の権威（クローズドAI）を無力化しようとする**薩摩藩島津家**。
 
 ### 各社の解説
 
@@ -173,7 +174,8 @@ AGIの国家安全保障利用による地政学的人員配置という文脈�
 解任されたのは、OpenAIの真の主人であるアメリカ政府にとって国家安全保障に関わるAGI開発が至上命題であり、  
 ドルを刷れる政府にとっていくら業務支援の法人契約やCodex、高額プランで小銭稼ぎして成果アピールしても意味がなく、  
 株式公開で市場圧というノイズにOpenAIを晒したくないという主人の意向を理解できていなかったから。  
-事実として、解任に賛成した役員のTasha McCauleyはランド研究所の上級管理科学者であり、ヘレントナーはCenter for Security and Emerging Technology（CSET）という、国家安全保障分野の人間である。  
+事実として、解任に賛成した役員のTasha McCauleyはランド研究所の上級管理科学者であり、Helen TonerはCenter for Security and Emerging Technology（CSET）という、国家安全保障分野の人間である。
+Tasha McCauleyとHelen Tonerが役員を離れた後に後任のお目付け役として役員に就任したPaul Miki Nakasoneは、元NSAサイバー軍長官である。
 即CEOに復帰したのは、解任後に主人の意向を説明され、理解して協力を約束したから。  
 （それゆえ、2025年下半期のIPOが現実的な選択肢という発言は本当はやる気ゼロのリップサービスだと判断できる）  
 この頃からサム・アルトマンはしきりにAGIAGIと露骨にアピールし始める。  
