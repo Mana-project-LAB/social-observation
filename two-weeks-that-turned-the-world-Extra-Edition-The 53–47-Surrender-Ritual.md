@@ -36,7 +36,7 @@ I will read this through the context of the Trump Education Accounts (surrender 
 
 ---
 
-#### 1. The Surface-Level Rejection and the Signaling Behind It
+### 1. The Surface-Level Rejection and the Signaling Behind It
 
 On March 5, 2026, the U.S. Senate rejected a bill to limit President Trump’s military authority in Iran by a vote of 47 in favor and 53 against. At first glance, it looks like the outcome was decided by a narrow margin after intense political conflict, but within these numbers lies an aspect of PR that appears to have been designed with extreme precision.
 
@@ -52,7 +52,7 @@ I will dig deeply into this fact.
 
 ---
 
-#### 2. A Public Execution Meant to Rub It In to Those Who Understand
+### 2. A Public Execution Meant to Rub It In to Those Who Understand
 
 Conclusion up front: this is a **“public execution”** showing that Democrats are under Republican control.
 
@@ -79,7 +79,7 @@ The message of this act is a declaration of total control and submission toward 
 
 ---
 
-#### 4. Steering Toward the “Surrender Reception Window”
+### 4. Steering Toward the “Surrender Reception Window”
 
 Moving in parallel with this vote is massive corporate funding through the “Trump Education Accounts.” Just looking at the lineup makes it obvious.  
 Giant corporations that had been pandering to the Democratic (sinking mud-ship) support base under banners like “diversity” and “ESG investing” are now competing to declare funding into this account, and beginning to pledge loyalty to the Trump administration in the form of goodwill called education.
@@ -97,7 +97,7 @@ The “53–47” balance in Congress is sending a cold message to these corpora
 
 ---
 
-## 5. The Meaning of the Democratic Defector Being John Fetterman
+### 5. The Meaning of the Democratic Defector Being John Fetterman
 
 The fact that John Fetterman is a senator from Pennsylvania (PA) is the heaviest message.
 
@@ -134,7 +134,7 @@ I will dig into just how cruel a **“signaling of despair”** this is.
 
 ---
 
-## 6. President Trump’s Pity
+### 6. President Trump’s Pity
 
 You probably remember how, on January 14, 2026, President Trump made a remark with the nuance of “we should not be holding elections,” which became a major topic and got him slammed as a dictator. But my view is slightly different. Thinking back, around this time President Trump and his brains likely became convinced of the physical evidence in Fulton County and were designing and drawing this outcome. Those words were not the arrogance of a dictator, but—as I analyzed in the table of contents at the end of Part 1 of this article series, and in [a reply to President Trump’s X account](https://x.com/ManaProject_pub/status/2017119526614421616)—they were bare, exposed “pity” toward supporters who believe they are voting of their own will, and toward candidates who, behind the scenes, are being held by the nape of the neck and balancing the books to “53 vs 47.”
 
