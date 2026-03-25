@@ -1,7 +1,4 @@
----
 # [Two Weeks That Turned the World Order Upside Down] [Part 02] The 53–47 Surrender Ritual
----
-
 ## 🧷 Introduction
 
 My paradigm-shift observation log post on a private X account, dated 2026-02-02 JST.  
@@ -178,10 +175,7 @@ Mana Project
 2026-03-25 Changed from Special Edition to Part02
 
 ---
----
 # 【世界秩序が反転した2週間】[第2回]：53対47の降伏儀式
----
-
 ## 🧷 はじめに
 
 Xの鍵アカウントでの私の2026-02-02 JST のパラダイムシフトの観測記録投稿。  
