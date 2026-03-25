@@ -1,4 +1,4 @@
-# [Two Weeks That Turned the World Order Upside Down] [Part 4] Survival Strategies of Bureaucratic Organizations Under Schedule F
+# [Two Weeks That Turned the World Order Upside Down] [Part04] Survival Strategies of Bureaucratic Organizations Under Schedule F
 ## 🧷 Introduction
 
 ①:Under Schedule F, from 2026-03-09 onward, posts with decision-making authority at the section chief, department head, and bureau director level become political appointments that can be dismissed immediately.  
