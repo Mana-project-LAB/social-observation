@@ -1,5 +1,6 @@
-# What Is the Deep State, and What Is Schedule F?
-
+# [Two Weeks That Turned the World Order Upside Down] [Part 03] What Is the Deep State, and What Is Schedule F?
+## 🧷 Introduction
+I will explain the phenomenon commonly referred to as the “Deep State,” setting aside conspiracy theories, and discuss it in conjunction with Schedule F, which takes effect on March 9, 2026.
 ## What is the Deep State?
 
 When people hear the term “Deep State,” it may sound like a conspiracy theory, but in fact it is a very ordinary personnel problem.
@@ -22,10 +23,16 @@ and refuse to accept election results, which are the will of the people.
 
 Do you understand? If you look into it, you should find that this is not a conspiracy theory at all.
 
+Take a look at the vote share for the Republican and Democratic parties in Washington, D.C., during elections. That is the result of decades of ideological screening in hiring and promotions.
+
 ## What is Schedule F?
 
 Starting tomorrow, March 9,2026 in the United States, a law called Schedule F will come into force, and at last it will become possible to remove these people.  
-As a result, these deeply entrenched far-left extremists will become ordinary employees who can be fired immediately. They will no longer be able to hide behind “tenure for life,” destroy the families of the American people, and waste resources. On March 9, the American people will finally sweep them out and stop funding their own destruction.
+In simple terms, this is a law that designates any position involved in policy formulation or decision-making as a political appointment, allowing such positions to be converted to contract-based roles that do not carry the job security typically afforded to civil servants. (The law targets positions, not individuals.)  
+As a result, the entrenched radical leftists who have monopolized management positions in government agencies through such ideological screening will become ordinary employees who can be fired immediately.   
+They will no longer be able to use their “tenure” as a shield to destroy American families and waste resources. On March 9, the American people will finally purge them and stop funding their own destruction.  
+As a result, these deeply entrenched far-left extremists will become ordinary employees who can be fired immediately. They will no longer be able to hide behind “tenure for life,” destroy the families of the American people, and waste resources.  
+On March 9, the American people will finally sweep them out and stop funding their own destruction.  
 
 ## What has the Deep State been doing?
 
@@ -41,12 +48,14 @@ Frankly speaking, I am envious. The United States will now be able to walk a hea
 
 Mana Project
 
-LastUpdate:2026-03-09
+2026-03-09 Published  
+2026-03-25 Added a little extra explanation  
+2026-03-25 Incorporated into [Two Weeks That Turned the World Order Upside Down] [Part 03]  
 
 ---
-
-# タイトル：ディープステートとは何か、Schedule Fとは何か
-
+# 【世界秩序が反転した2週間】[第3回] ディープステートとは何か、Schedule Fとは何か？
+## 🧷 はじめに
+世間でディープステートと呼称されている事象を、陰謀論を排除して解体し、2026-03-09から施行されるSchedule Fとあわせて説明します。
 ## ディープステートとは何か？
 
 ディープステートと言われると陰謀論のように聞こえるかもしれないが、実は非常に一般的な人事問題です。
@@ -69,10 +78,12 @@ LastUpdate:2026-03-09
 
 お分かりでしょう？ 調べてみれば、これは陰謀論などではないことが分かるはずです。
 
+選挙の際のワシントンDCの共和党と民主党の得票比率を見てください。あれが、数十年にわたり採用や昇進で思想的選別を続けてきた結果です。  
 ## スケジュール F とは何か？
 
 明日2026年 3 月 9 日から、アメリカではスケジュール F という法律が施行され、ようやくこうした人々を排除することができるようになります。  
-これにより、こうした根強い左翼過激派は、即座に解雇できる一般社員となります。彼らはもはや、「終身在職権」を盾に、アメリカ国民の家族を破壊し、資源を浪費することはできなくなります。3 月 9 日、アメリカ国民はついに彼らを一掃し、自らの破壊に資金を提供するのをやめるでしょう。
+ざっくり説明すると、任意の政策立案や意思決定に関わる職位を政治任用とし、公務員の身分保証を無くした契約職員へと変更可能にする法律です。（個人ではなく、職位が対象になります）
+これにより、こうした思想的選別により省庁の管理職を独占していた根強い左翼過激派は、即座に解雇できる一般社員となります。彼らはもはや、「終身在職権」を盾に、アメリカ国民の家族を破壊し、資源を浪費することはできなくなります。3 月 9 日、アメリカ国民はついに彼らを一掃し、自らの破壊に資金を提供するのをやめるでしょう。
 
 ## ディープステートは何をしていたか？
 
@@ -88,4 +99,6 @@ LastUpdate:2026-03-09
 
 Mana Project
 
-LastUpdate:2026-03-09
+2026-03-09 Published  
+2026-03-25 Added a little extra explanation  
+2026-03-25 Incorporated into [Two Weeks That Turned the World Order Upside Down] [Part 03]  
