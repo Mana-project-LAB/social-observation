@@ -1,5 +1,5 @@
 ---
-## 🌍 [Two Weeks That Turned the World Order Upside Down] [Part 02] The 53–47 Surrender Ritual
+# [Two Weeks That Turned the World Order Upside Down] [Part 02] The 53–47 Surrender Ritual
 ---
 
 ## 🧷 Introduction
@@ -179,7 +179,7 @@ Mana Project
 
 ---
 ---
-## 🌍 【世界秩序が反転した2週間】[第2回]：53対47の降伏儀式
+# 【世界秩序が反転した2週間】[第2回]：53対47の降伏儀式
 ---
 
 ## 🧷 はじめに
