@@ -1,5 +1,5 @@
-# [Two Weeks That Turned the World Order Upside Down] [Part 01] Introduction: *The Clash of Civilizations* (Samuel P. Huntington) Is Still Valid Today
-
+# [Two Weeks That Turned the World Order Upside Down] [Part 01] *The Clash of Civilizations* (Samuel P. Huntington) Is Still Valid Today
+## 🧷 Introduction
 In December 2025, the FINANCIAL TIMES published an article claiming that *The Clash of Civilizations* (Samuel P. Huntington) is no longer relevant and is off the mark.
 
 https://www.ft.com/content/1ed6da0b-a922-4206-bd0f-63af5cc10354
@@ -86,8 +86,8 @@ Mana Project
 
 ---
 
-# 【世界秩序が反転した2週間】【第1回】はじめに：文明の衝突（サミュエル・P・ハンティントン）は現在も有効である
-
+# 【世界秩序が反転した2週間】【第1回】文明の衝突（サミュエル・P・ハンティントン）は現在も有効である
+## 🧷はじめに
 2025年12月、文明の衝突（サミュエル・P・ハンティントン）はもはや的外れであるという記事がFINANCIAL TIMESに掲載された。
 
 https://www.ft.com/content/1ed6da0b-a922-4206-bd0f-63af5cc10354
