@@ -1,8 +1,8 @@
 ---
-### 🌍 [Two Weeks That Turned the World Order Upside Down] Extra Edition: The 53–47 Surrender Ritual
+## 🌍 [Two Weeks That Turned the World Order Upside Down] [Part 02] The 53–47 Surrender Ritual
 ---
 
-### 🧷 Introduction
+## 🧷 Introduction
 
 My paradigm-shift observation log post on a private X account, dated 2026-02-02 JST.  
 
@@ -136,7 +136,7 @@ I will dig into just how cruel a **“signaling of despair”** this is.
 
 ### 6. President Trump’s Pity
 
-You probably remember how, on January 14, 2026, President Trump made a remark with the nuance of “we should not be holding elections,” which became a major topic and got him slammed as a dictator. But my view is slightly different. Thinking back, around this time President Trump and his brains likely became convinced of the physical evidence in Fulton County and were designing and drawing this outcome. Those words were not the arrogance of a dictator, but—as I analyzed in the table of contents at the end of Part 1 of this article series, and in [a reply to President Trump’s X account](https://x.com/ManaProject_pub/status/2017119526614421616)—they were bare, exposed “pity” toward supporters who believe they are voting of their own will, and toward candidates who, behind the scenes, are being held by the nape of the neck and balancing the books to “53 vs 47.”
+You probably remember how, on January 14, 2026, President Trump made a remark with the nuance of “we should not be holding elections,” which became a major topic and got him slammed as a dictator. But my view is slightly different. Thinking back, around this time President Trump and his brains likely became convinced of the physical evidence in Fulton County and were designing and drawing this outcome. Those words were not the arrogance of a dictator, but—as I analyzed in the table of contents at the end of Part 1 of this article series, and in [a reply to President Trump’s X account](https://x.com/ManaProject_pub/status/2017119526614421616)—(Time Stamp:2026-01-30)they were bare, exposed “pity” toward supporters who believe they are voting of their own will, and toward candidates who, behind the scenes, are being held by the nape of the neck and balancing the books to “53 vs 47.”
 
 Think about it. Democratic supporters believe in liberal “good” such as K-POP loudspeaker broadcasts and humanitarian aid, and they support their party’s legislators.
 
@@ -174,11 +174,12 @@ Playing at being good people might still work for a while in the mid-to-lower la
 
 Mana Project
 
-2026-03-07
+2026-03-07 Published
+2026-03-25 Changed from Special Edition to Part02
 
 ---
 ---
-## 🌍 【世界秩序が反転した2週間】号外：53対47の降伏儀式
+## 🌍 【世界秩序が反転した2週間】[第2回]：53対47の降伏儀式
 ---
 
 ## 🧷 はじめに
@@ -316,7 +317,7 @@ Xの鍵アカウントでの私の2026-02-02 JST のパラダイムシフトの�
 
 ## 6.トランプ大統領の憐れみ
 
-トランプ大統領が、2026年1月14日に、「選挙などやるべきではない」というニュアンスの発言をして大いに話題になり、独裁者と叩かれまくった姿を皆さんも覚えているだろう。しかし私の見方は少し異なる。思えばこの頃からトランプ大統領とそのブレイン達はフルトン郡の物的証拠を確信し、この結果を設計して描いていたのだろう。あの言葉は独裁者の傲慢ではなく、わたしがこの記事の第1回末尾の目次や、[Xのトランプ大統領のアカウントへの返信](https://x.com/ManaProject_pub/status/2017119526614421616)で考察したように、自分の意志で投票していると信じている支持者と、裏で首根っこを掴まれて「53対47」の帳尻を合わせている立候補者たちへの、剥き出しの「憐れみ」である。
+トランプ大統領が、2026年1月14日に、「選挙などやるべきではない」というニュアンスの発言をして大いに話題になり、独裁者と叩かれまくった姿を皆さんも覚えているだろう。しかし私の見方は少し異なる。思えばこの頃からトランプ大統領とそのブレイン達はフルトン郡の物的証拠を確信し、この結果を設計して描いていたのだろう。あの言葉は独裁者の傲慢ではなく、わたしがこの記事の第1回末尾の目次や、[Xのトランプ大統領のアカウントへの返信](https://x.com/ManaProject_pub/status/2017119526614421616) (Time Stamp:2026-01-30)で考察したように、自分の意志で投票していると信じている支持者と、裏で首根っこを掴まれて「53対47」の帳尻を合わせている立候補者たちへの、剥き出しの「憐れみ」である。
 
 考えてみてほしい。民主党支持者は、K-POPの拡声器放送や人道的支援を訴えるリベラルな「善」を信じ、自党の議員を応援している。
 
@@ -354,4 +355,5 @@ Xの鍵アカウントでの私の2026-02-02 JST のパラダイムシフトの�
 
 Mana Project
 
-2026-03-07
+2026-03-07 Published
+2026-03-25 Changed from Special Edition to Part02
